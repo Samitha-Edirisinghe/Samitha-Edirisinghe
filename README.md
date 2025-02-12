@@ -6,14 +6,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Designer;Web+Developer;UI/UX+%26+Graphic+Designer&amp;center=true&amp;width=500&amp;height=150">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Designer;Web+Developer;UI/UX+%26+Graphic+Designer&amp;center=true&amp;width=500&amp;height=50">
   </a>
 </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
 
 
-<img align="center" height="100px" width="1300px" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="center" height="500px" width="1300px" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <h2 align="center" id="about-me">About me </h2>
 
