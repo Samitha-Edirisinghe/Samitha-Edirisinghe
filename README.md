@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Designer;Web+Developer;UI/UX+%26+Graphic+Designer&amp;center=true&amp;width=500&amp;height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Designer;Web+Developer;UI/UX+%26+Graphic+Designer&amp;center=true&amp;width=500&amp;height=150">
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 <p align="left">
 Expertise:<br><br>
 
-1. Full-Stack Development (PHP, JavaScript, jQuery, MySQL)<br>
-2. Mobile App Development (Flutter, Dart, GetX)<br>
-3. Web Technologies (React, Angular, Vue, WordPress, REST APIs)<br>
-4. AI &amp; ML (TensorFlow, PyTorch, OpenCV)<br>
-5. UI/UX Design (Figma, Adobe Illustrator, Photoshop)<br>
+    1. Full-Stack Development (PHP, JavaScript, jQuery, MySQL)<br>
+    2. Mobile App Development (Flutter, Dart, GetX)<br>
+    3. Web Technologies (React, Angular, Vue, WordPress, REST APIs)<br>
+    4. AI &amp; ML (TensorFlow, PyTorch, OpenCV)<br>
+    5. UI/UX Design (Figma, Adobe Illustrator, Photoshop)<br>
 </p>
 
 <p align="left">
