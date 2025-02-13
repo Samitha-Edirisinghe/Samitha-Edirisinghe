@@ -17,7 +17,7 @@
 
 <h2 align="center" id="about-me">About me </h2>
 
-<p align="center">Hi there! I'm Samitha Randika, a passionate Software Engineer and founder of Bytenest. I specialize in software development, web design, and graphic design, leveraging cutting-edge technologies to build innovative solutions.</p><br>
+<p align="center">Hi there! I'm <strong>Samitha Randika</strong>, a passionate Software Engineer and founder of <strong>Bytenest</strong>. I specialize in software development, web design, and graphic design, leveraging cutting-edge technologies to build innovative solutions.</p><br>
 
 <p align="left">
 Expertise:<br><br>
