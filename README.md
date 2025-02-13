@@ -1,6 +1,6 @@
 <h1 align="center" id="hi-there--im-schleidens"> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> Hello, I'm Samitha Randika <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"></h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 
 <h3 align="center"><strong>I'm</strong></h3>
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <h2 align="center" id="about-me">About me </h2>
 
