@@ -105,14 +105,3 @@ Developing innovative projects like:
 </div><br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-
-<p>Credit: <a href="https://github.com/Samitha-Edirisinghe">Samitha-Edirisinghe</a></p>
-<p>Last Edited on: 14/03/2025</p> 
-
-
-
-
-
-
- 
- 
