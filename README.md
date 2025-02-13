@@ -99,16 +99,13 @@ Developing innovative projects like:<br><br>
 <div align="center">
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 
-<p><img src="https://komarev.com/ghpvc/?username=dzenis-h&amp;label=Profile+visitors:" alt="Views"></p>
-<p><a href="%5Bhttps://github.com/jrmydix%5D(https://github.com/dzenis-h)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&amp;layout=compact&amp;theme=dark" alt="Top Langs"></a></p>
+<p  align="left"><img src="https://komarev.com/ghpvc/?username=dzenis-h&amp;label=Profile+visitors:" alt="Views"></p>
+<p  align="right"><a href="%5Bhttps://github.com/jrmydix%5D(https://github.com/dzenis-h)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&amp;layout=compact&amp;theme=dark" alt="Top Langs"></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=dzenis-h&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide=issues" alt="My GitHub stats"></p>
 </div><br>
-<hr>
-
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
 
-<hr>
 <p>Credit: <a href="https://github.com/Samitha-Edirisinghe">Samitha-Edirisinghe</a></p>
 <p>Last Edited on: 14/03/2025</p> 
 
