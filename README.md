@@ -20,22 +20,22 @@
 <p align="left">
 Expertise:<br>
 
-    1. Full-Stack Development (PHP, JavaScript, jQuery, MySQL)<br>
-    2. Mobile App Development (Flutter, Dart, GetX)<br>
-    3. Web Technologies (React, Angular, Vue, WordPress, REST APIs)<br>
-    4. AI &amp; ML (TensorFlow, PyTorch, OpenCV)<br>
-    5. UI/UX Design (Figma, Adobe Illustrator, Photoshop)<br>
+    1. Full-Stack Development (PHP, JavaScript, jQuery, MySQL)
+    2. Mobile App Development (Flutter, Dart, GetX)
+    3. Web Technologies (React, Angular, Vue, WordPress, REST APIs)
+    4. AI &amp; ML (TensorFlow, PyTorch, OpenCV)
+    5. UI/UX Design (Figma, Adobe Illustrator, Photoshop)
 </p>
 
 <p align="left">
 What I'm Working On:<br>
 Developing innovative projects like:
 
-      1. Smart IoT Crime Monitoring and Alert System<br>
-      2. Crowd-Sourced Traffic Analysis and Routing<br>
-      3. Elephant Collision Prediction and Alert System<br>
-      4. AI-Based Mental Health Monitoring System<br>
-      5. HUCM (Home Utility Consumption Managing System<br>
+      1. Smart IoT Crime Monitoring and Alert System
+      2. Crowd-Sourced Traffic Analysis and Routing
+      3. Elephant Collision Prediction and Alert System
+      4. AI-Based Mental Health Monitoring System
+      5. HUCM (Home Utility Consumption Managing System
 </p>
 
 
