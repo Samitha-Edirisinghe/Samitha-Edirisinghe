@@ -97,7 +97,7 @@ Developing innovative projects like:
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div align="center">
-<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
+<h2 id="-github-stats"><b> Github Stats </b></h2>
 
 <p><img src="https://komarev.com/ghpvc/?username=dzenis-h&amp;label=Profile+visitors:" alt="Views"></p>
 <p><a href="%5Bhttps://github.com/jrmydix%5D(https://github.com/dzenis-h)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&amp;layout=compact&amp;theme=dark" alt="Top Langs"></a></p>
