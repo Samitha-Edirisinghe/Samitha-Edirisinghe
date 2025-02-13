@@ -33,10 +33,10 @@ Expertise:<br><br>
 What I'm Working On:<br>
 Developing innovative projects like:<br><br>
 
-         1. Smart IoT Crime Monitoring &amp; Alert System<br>
-         2. Crowd-Sourced Traffic Analysis &amp; Routing<br>
-         3. Elephant Collision Prediction &amp; Alert System<br>
-         4. AI-Based Mental Health Monitoring System<br>
+      1. Smart IoT Crime Monitoring &amp; Alert System<br>
+      2. Crowd-Sourced Traffic Analysis &amp; Routing<br>
+      3. Elephant Collision Prediction &amp; Alert System<br>
+      4. AI-Based Mental Health Monitoring System<br>
 </p>
 
 
@@ -72,7 +72,7 @@ Developing innovative projects like:<br><br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <hr>
 <p>Credit: <a href="https://github.com/Samitha-Edirisinghe">Samitha-Edirisinghe</a></p>
-<p>Last Edited on: 15/03/2025</p> 
+<p>Last Edited on: 14/03/2025</p> 
 
 
 
