@@ -18,7 +18,7 @@
 <p align="center">Hi there! I'm <strong>Samitha Randika</strong>, a passionate Software Engineer and founder of <strong>Bytenest</strong>. I specialize in software development, web design, and graphic design, leveraging cutting-edge technologies to build innovative solutions.</p><br>
 
 <p align="left">
-Expertise:<br><br>
+Expertise:<br>
 
     1. Full-Stack Development (PHP, JavaScript, jQuery, MySQL)<br>
     2. Mobile App Development (Flutter, Dart, GetX)<br>
@@ -29,7 +29,7 @@ Expertise:<br><br>
 
 <p align="left">
 What I'm Working On:<br>
-Developing innovative projects like:<br><br>
+Developing innovative projects like:
 
       1. Smart IoT Crime Monitoring and Alert System<br>
       2. Crowd-Sourced Traffic Analysis and Routing<br>
@@ -39,7 +39,7 @@ Developing innovative projects like:<br><br>
 </p>
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <h2 align="center" id="--languages-and-tools">Languages and Tools</h2>
 
@@ -94,7 +94,7 @@ Developing innovative projects like:<br><br>
 </p>
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div align="center">
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
@@ -104,7 +104,7 @@ Developing innovative projects like:<br><br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=dzenis-h&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide=issues" alt="My GitHub stats"></p>
 </div><br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <p>Credit: <a href="https://github.com/Samitha-Edirisinghe">Samitha-Edirisinghe</a></p>
 <p>Last Edited on: 14/03/2025</p> 
