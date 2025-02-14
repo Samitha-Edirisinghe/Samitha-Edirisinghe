@@ -22,7 +22,7 @@ Expertise:<br>
 
     1. Full-Stack Development (PHP, JavaScript, jQuery, MySQL)
     2. Mobile App Development (Flutter, Dart, GetX)
-    3. Web Technologies (React, Angular, Vue, WordPress, REST APIs, HTML, CSS)
+    3. Web Technologies (React, Angular, Vue, WordPress, REST APIs, HTML, CSS, Laravel)
     4. AI &amp; ML (TensorFlow, PyTorch, OpenCV)
     5. UI/UX Design (Figma, Adobe Illustrator, Photoshop, Canva)
 </p>
